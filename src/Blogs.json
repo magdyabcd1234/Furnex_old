@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "Transform Your Living Room with Plants and Stylish Furniture",
+        "image": "/images/blog-1.jpeg",
+        "categories": ["Furniture" , "Interior" , "Plants"],
+        "author": "Admin",
+        "date": "April 8, 2025",
+        "pere": "Discover how to create a cozy, elegant living space by blending indoor plants with modern furniture. These simple tips bring nature and design into perfect harmony."
+    },
+    {
+        "id": 2,
+        "title": "9 Indoor Plants That Match Contemporary Home Interiors",
+        "image": "/images/blog-2.jpg",
+        "categories": ["Furniture" , "Decor" , "Plants"],
+        "author": "Admin",
+        "date": "April 6, 2025",
+        "pere": "From snake plants to peace lilies, explore the perfect indoor that complement sleek furniture and bring fresh energy to your modern home."
+    },
+    {
+        "id": 3,
+        "title": "The Art of Pairing Wooden Furniture with Houseplants",
+        "image": "/images/blog-3.jpg",
+        "categories": ["Furniture" , "Design" , "Plants"],
+        "author": "Admin",
+        "date": "April 3, 2025",
+        "pere": "Balance earthy wooden textures with lush green plants for a warm, organic vibe. Get inspired with tips on how to achieve this inviting style at home."
+    },
+    {
+        "id": 4,
+        "title": "50 Inspiring Ways to Style Planters Around Your Furniture",
+        "image": "/images/blog-4.jpg",
+        "categories": ["Furniture" , "Trends" , "Decor"],
+        "author": "Admin",
+        "date": "April 1, 2025",
+        "pere": "Planters aren't just for plants-they're decor elements. Explore creative ways to place them around your furniture for a fresh, vibrant look."
+    },
+    {
+        "id": 5,
+        "title": "Eco-Friendly Furniture Ideas for a Greener Home",
+        "image": "/images/blog-5.jpg",
+        "categories": ["Furniture" , "Eco-friendly" , "Plants"],
+        "author": "Admin",
+        "date": "March 30, 2025",
+        "pere": "Go green with sustainable furniture and indoor plants that purify air. This blog explores how to blend eco-conscious decor with natural beauty."
+    },
+    {
+        "id": 6,
+        "title": "Space-Smart Layouts for Plants and Living Room Furniture",
+        "image": "/images/blog-6.jpeg",
+        "categories": ["Furniture" , "Layout" , "Indoor Plants"],
+        "author": "Admin",
+        "date": "March 27, 2025",
+        "pere": "Don't let large plants take over your room! Learn to arrange furniture and greenery smartly to keep your space stylish and functional."
+    },
+    {
+        "id": 7,
+        "title": "Build the Ultimate Plant Corner Using Modular Furniture",
+        "image": "/images/blog-7.jpeg",
+        "categories": ["Furniture" , "Shelving" , "Plants"],
+        "author": "Admin",
+        "date": "March 24, 2025",
+        "pere": "Design a cozy plant nook with the help of modular shelves, stands, and stools. It's the perfect mix of greenery and smart storage."
+    },
+
+    {
+        "id": 8,
+        "title": "Nature-Inspired Workspaces: Combine Greenery and Comfort",
+        "image": "/images/blog-8.jpeg",
+        "categories": ["Furniture" , "Workspace" , "Nature"],
+        "author": "Admin",
+        "date": "March 20, 2025",
+        "pere": "Boost productivity with calming plants and ergonomic furniture. Discover how to build a home office that's both beautiful and functional."
+    },
+    {
+        "id": 9,
+        "title": "12 Coffe Tables That Highlight Your Favourite Houseplants",
+        "image": "/images/blog-2.jpg",
+        "categories": ["Furniture" , "Table Decor" , "Plants"],
+        "author": "Admin",
+        "date": "March 17, 2025",
+        "pere": "Show off succulents, bonsai, or pothos with these curated tables coffe tables that offer elegance and space for your tabletop greenery."
+    },
+    {
+        "id": 10,
+        "title": "Balcony Decor Ideas with Foldable Furniture & Hanging Plants",
+        "image": "/images/blog-10.jpeg",
+        "categories": ["Furniture" , "Balcony" , "Plants"],
+        "author": "Admin",
+        "date": "March 14, 2025",
+        "pere": "Maximize your balcony's potential with space-saving furniture and vertical planters. These ideas turn even small spaces into green havens"
+    }
+]

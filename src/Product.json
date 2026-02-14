@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "image": "images/furniture-1.png",
+        "secondImage": "images/furniture-1.png",
+        "name": "Modern White Bed",
+        "offerPrice": 18990,
+        "price": 22990
+    },
+    {
+        "id": 2,
+        "image": "/images/furniture-2.png",
+        "secondImage": "/images/furniture-2.png",
+        "name": "Luxury Mattress",
+        "offerPrice": 9990,
+        "price": 12990
+    },
+    {
+        "id": 3,
+        "image": "/images/furniture-3.png",
+        "secondImage": "/images/furniture-3.png",
+        "name": "Yellow Nice Chair",
+        "offerPrice": 18990,
+        "price": 22990
+    },
+    {
+        "id": 4,
+        "image": "/images/furniture-4.png",
+        "secondImage": "/images/furniture-4.png",
+        "name": "Big Chair Beutiful",
+        "offerPrice": 18990,
+        "price": 22990
+    },
+    {
+        "id": 5,
+        "image": "/images/furniture-5.png",
+        "secondImage": "/images/furniture-5.png",
+        "name": "Have A nice Light",
+        "offerPrice": 18990,
+        "price": 22990
+    },
+    {
+        "id": 6,
+        "image": "/images/furniture-6.png",
+        "secondImage": "/images/furniture-6.png",
+        "name": "Chair With Columns",
+        "offerPrice": 12990,
+        "price": 14990
+    },
+    {
+        "id": 7,
+        "image": "/images/furniture-7.png",
+        "secondImage": "/images/furniture-7.png",
+        "name": "Chair With Khodadia",
+        "offerPrice": 9990,
+        "price": 11990
+    },
+    {
+        "id": 8,
+        "image": "/images/furniture-8.png",
+        "secondImage": "/images/furniture-8.png",
+        "name": "Blastic Chair",
+        "offerPrice": 2018,
+        "price": 20188
+    },
+    {
+        "id": 9,
+        "image": "/images/furniture-9.png",
+        "secondImage": "/images/furniture-9.png",
+        "name": "Spong Chair",
+        "offerPrice": 2017,
+        "price": 20175
+    },
+    {
+        "id": 10,
+        "image": "/images/furniture-10.png",
+        "secondImage": "/images/furniture-10.png",
+        "name": "Rattan Accent Chair",
+        "offerPrice": 2026,
+        "price": 20201
+    },
+    {
+        "id": 11,
+        "image": "/images/furniture-11.png",
+        "secondImage": "/images/furniture-11.png",
+        "name": "Glass Dining Table",
+        "offerPrice": 9878,
+        "price": 77899
+    },
+    {
+        "id": 12,
+        "image": "/images/furniture-12.png",
+        "secondImage": "/images/furniture-12.png",
+        "name": "Compact Study Desk",
+        "offerPrice": 1234,
+        "price": 55567
+    },
+    {
+        "id": 13,
+        "image": "/images/furniture-13.png",
+        "secondImage": "/images/furniture-13.png",
+        "name": "Modern Dollab",
+        "offerPrice": 4489,
+        "price": 3221
+    },
+    {
+        "id": 14,
+        "image": "/images/furniture-14.png",
+        "secondImage": "/images/furniture-14.png",
+        "name": "Moving Chair",
+        "offerPrice": 5432,
+        "price": 88990
+    },
+    {
+        "id": 15,
+        "image": "/images/furniture-15.png",
+        "secondImage": "/images/furniture-15.png",
+        "name": "A corner chair",
+        "offerPrice": 8990,
+        "price": 10990
+    },
+    {
+        "id": 16,
+        "image": "/images/furniture-16.png",
+        "secondImage": "/images/furniture-16.png",
+        "name": "red Light",
+        "offerPrice": 1490,
+        "price": 1890
+    },
+    {
+        "id": 17,
+        "image": "/images/furniture-17.png",
+        "secondImage": "/images/furniture-17.png",
+        "name": "Glass Dollab",
+        "offerPrice": 4790,
+        "price": 5990
+    },
+    {
+        "id": 18,
+        "image": "/images/furniture-18.png",
+        "secondImage": "/images/furniture-18.png",
+        "name": "A Glass Table",
+        "offerPrice": 4790,
+        "price": 4590
+    },
+    {
+        "id": 19,
+        "image": "/images/furniture-19.png",
+        "secondImage": "/images/furniture-19.png",
+        "name": "A Fat Chair",
+        "offerPrice": 3290,
+        "price": 3990
+    },
+    {
+        "id": 20,
+        "image": "/images/furniture-20.png",
+        "secondImage": "/images/furniture-20.png",
+        "name": "Low Wooden Bed",
+        "offerPrice": 8490,
+        "price": 9990
+    },
+    {
+        "id": 21,
+        "image": "/images/furniture-21.png",
+        "secondImage": "/images/furniture-21.png",
+        "name": "Brown Office Chair",
+        "offerPrice": 4390,
+        "price": 5190
+    },
+    {
+        "id": 22,
+        "image": "/images/furniture-22.png",
+        "secondImage": "/images/furniture-22.png",
+        "name": "Glass Top Table",
+        "offerPrice": 4890,
+        "price": 5690
+    },
+    {
+        "id": 23,
+        "image": "/images/furniture-23.png",
+        "secondImage": "/images/furniture-23.png",
+        "name": "Cozy Lounge Chair",
+        "offerPrice": 4590,
+        "price": 5390
+    },
+    {
+        "id": 24,
+        "image": "/images/furniture-24.png",
+        "secondImage": "/images/furniture-24.png",
+        "name": "Ergonomic Task Chair",
+        "offerPrice": 3690,
+        "price": 4490
+    }
+]
