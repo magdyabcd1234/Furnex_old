@@ -72,11 +72,11 @@ function Nav() {
 
             {/* Mobile Icon */}
             <div className="d-lg-none mobile-icon d-flex align-items-center gap-3">
-                <a href="#">
-                    <i className="bi bi-search fs-5"></i>
+                <a href="#" data-bs-toggle='modal' data-bs-target='#searchModal'>
+                    <i className="bi bi-search fs-5 text-dark"></i>
                 </a>
-                <a href="#">
-                    <i className="bi bi-person fs-5"></i>
+                <a href="#" data-bs-toggle='modal' data-bs-target='#signupModal'>
+                    <i className="bi bi-person fs-5 text-dark"></i>
                 </a>
                 <Link to="/wishlist" className='position-relative'>
                     <i className="bi bi-heart fs-5"></i>
