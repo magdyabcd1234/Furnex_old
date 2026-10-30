@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router , Routes , Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Nav from './Components/Nav/Nav';
 import Index from './Components/Pages/Index';
 import { ToastContainer } from 'react-toastify';
